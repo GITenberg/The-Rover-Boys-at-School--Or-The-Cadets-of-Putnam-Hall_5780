@@ -1,0 +1,38 @@
+_repo: The-Rover-Boys-at-School--Or-The-Cadets-of-Putnam-Hall_5780
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: Part of the popular Rover Boy series that captivated young audiences
+  in the early 1900s, The Rover Boys at School follows the ups and downs of a group
+  of students attending a military boarding school. The mischievous, fun-loving pranksters
+  react to events like emerging new technologies and conflicts on the world stage
+  as they learn the ways of the battlefield.
+gutenberg_bookshelf:
+- Children's Book Series
+- School Stories
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- GITenberg
+title: The Rover Boys at School; Or, The Cadets of Putnam Hall
+url: http://www.gutenberg.org/ebooks/5780
